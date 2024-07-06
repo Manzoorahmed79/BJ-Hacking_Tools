@@ -72,7 +72,7 @@ class App extends React.PureComponent {
         return /*#__PURE__*/(
             React.createElement(Slider, {
                 images: [
-                    'https://xunix.uz/assets/first.png',
+                    'js/20240706_221049.jpg',
                     'https://xunix.uz/assets/second.png',
                     'https://xunix.uz/assets/three.png'
                 ],
