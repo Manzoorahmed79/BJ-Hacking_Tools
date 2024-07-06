@@ -73,8 +73,8 @@ class App extends React.PureComponent {
             React.createElement(Slider, {
                 images: [
                     'js/20240706_221049.jpg',
-                    'https://xunix.uz/assets/second.png',
-                    'https://xunix.uz/assets/three.png'
+                    'js/20240706_221141.jpg',
+                    'js/20240706_221233.png'
                 ],
                 radius: 210
             }));
